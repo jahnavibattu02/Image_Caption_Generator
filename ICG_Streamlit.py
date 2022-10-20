@@ -68,7 +68,7 @@ def main():
         if img is not None:
             st.image(img)
             st.markdown("<h1 style='text-align: center; color: #08e08a;'>Caption</h1>",unsafe_allow_html=True)
-            image = load_img(img.name, target_size=(224, 224))
+            image = load_img(img, target_size=(224, 224))
             # convert image pixels to numpy array
             image = img_to_array(image)
             # reshape data for model
