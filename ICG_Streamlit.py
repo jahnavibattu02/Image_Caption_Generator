@@ -48,7 +48,7 @@ def main():
     if option_type == "Home":
 
         st.markdown("<h1 style='text-align: center; color: #08e08a;'>Image Caption Generator</h1>",unsafe_allow_html=True)
-        lottie_hello = load_lottieurl("https://assets2.lottiefiles.com/packages/lf20_1GkVPfS0cv.json")
+        lottie_hello = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_VAcXFj87ku.json")
 
         st_lottie(
             lottie_hello,
