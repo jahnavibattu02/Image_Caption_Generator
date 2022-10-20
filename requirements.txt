@@ -1,0 +1,7 @@
+keras==2.10.0
+numpy==1.23.1
+requests==2.25.1
+streamlit==1.12.2
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2
+tensorflow==2.10.0
