@@ -7,4 +7,4 @@
 
 ![Architecture](model.png)
 
-# [Judge our work here.](https://saidileepkumarmukkamala-image-caption-gene-icg-streamlit-qwedf7.streamlitapp.com/)
+# [Judge our work here.](https://saidileepkumarmukkamala-image-caption-gene-icg-streamlit-2bxv6a.streamlitapp.com/)
